@@ -43,9 +43,9 @@ The system uses a two-tiered control architecture:
 ## Implementation
 - **Simulation Environment**: Tested under diverse conditions to validate safety and comfort improvements.
 - **Roles**:
-  - **Team Leader**: Oversees project progress and compiles final outputs.
-  - **Technical Lead**: Develops and tests algorithms.
-  - **Documentation Specialist**: Records development processes and prepares presentation materials.
+  - **Team Leader**: Le Hoang Viet
+  - **Technical Lead**: Nguyen Tat Dat
+  - **Documentation Specialist**: An Phuc Hoa
 
 ## References
 - [Potential Field-Based Hierarchical Adaptive Cruise Control for Semi-Autonomous Electric Vehicles (ResearchGate)](https://www.researchgate.net)
